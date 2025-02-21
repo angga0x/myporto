@@ -101,11 +101,11 @@ function App() {
                 </div>
               </div>
 
-              {/* E-Commerce Project Card */}
+              {/* Lampung Weather Forecast */}
               <div className="bg-gray-50 dark:bg-gray-800 rounded-2xl overflow-hidden shadow-xl transition-transform hover:scale-[1.02]">
                 <div className="aspect-video bg-gray-200 dark:bg-gray-700">
                   <img
-                    src="https://placehold.co/600x400"
+                    src="Lampung Weather Forecast"
                     alt="E-Commerce Project"
                     className="w-full h-full object-cover"
                   />
@@ -125,7 +125,7 @@ function App() {
                       <FiExternalLink /> Visit Site
                     </a>
                     <a
-                      href="#"
+                      href="https://weather-lpg.vercel.app/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200"
