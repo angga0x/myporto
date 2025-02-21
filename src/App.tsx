@@ -117,7 +117,7 @@ function App() {
                   </p>
                   <div className="flex gap-4">
                     <a
-                      href="#"
+                      href="https://weather-lpg.vercel.app/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300"
@@ -125,7 +125,7 @@ function App() {
                       <FiExternalLink /> Visit Site
                     </a>
                     <a
-                      href="https://weather-lpg.vercel.app/"
+                      href="#"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-200"
