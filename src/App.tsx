@@ -113,7 +113,7 @@ function App() {
                 <div className="p-6">
                   <h3 className="font-display font-bold text-2xl mb-2">E-Commerce Platform</h3>
                   <p className="text-gray-600 dark:text-gray-400 mb-4">
-                    A full-featured e-commerce platform with cart management, payments, and admin dashboard.
+                    A weather prediction for Lampung Province.
                   </p>
                   <div className="flex gap-4">
                     <a
